@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk11
 
 COPY target/17-Spring_h2_Database-0.0.1-SNAPSHOT.war /app/17-Spring_h2_Database-0.0.1-SNAPSHOT.war
 
